@@ -1,0 +1,16 @@
+h1{
+    color: greenyellow;
+    text-align: center;
+    font-family: 5rem;
+    font-weight: 300;
+}
+
+button{
+    background-color: greenyellow;
+    color: indianred;
+    border-radius: 15%;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin-left: 47.5%;
+}
